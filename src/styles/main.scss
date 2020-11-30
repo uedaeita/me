@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cuprum:wght@500&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Cuprum', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#__next {
+  background: #18453B;
+  transition: background .6s ease;
+}
